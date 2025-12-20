@@ -20,7 +20,7 @@ The experimental setup was then reset, with water in the output tubs dumped out 
 
 See below an image of the parallel flow experimental setup:
 
-<img src="/assets/images/regular-flow.jpeg" width="300" alt="Parallel Flow Setup"/>
+<img src="assets/images/regular-flow.jpeg" width="300" alt="Parallel Flow Setup"/>
 
 <img src="{{ /assets/images/regular-flow.jpeg | relative_url }}" alt="Parallel Flow Setup" />
 
