@@ -2,7 +2,7 @@
 layout: project
 title: Heat Exchanger
 description: analysis of a heat exchanger for ENGRD 2210
-image: /assets/images/regular-flow.jpeg
+image: /assets/images/heat exchanger.JPEG
 ---
 #### Introduction
 
