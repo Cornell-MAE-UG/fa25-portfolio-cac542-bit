@@ -5,6 +5,7 @@ description: analysis of a heat exchanger for ENGRD 2210
 image: /assets/images/regular-flow.jpeg
 ---
 #### Introduction
+
 This project involved the analysis of a heat exchanger, which is a device that transfers heat from one fluid to another by running the fluids in parallel. To maximize the amount of heat that is exchanged, a good heat exchanger will typically run the liquids in such a way that the surface area connecting the two is very high. In the heat exchanger used for this investigation, this was achieved by running the fluids back and forth across a rectangular prism in parallel.
 
 ---
