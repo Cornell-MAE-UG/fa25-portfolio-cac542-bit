@@ -24,6 +24,8 @@ See below an image of the parallel flow experimental setup:
 
 <img src="{{ /assets/images/regular-flow.jpeg | relative_url }}" alt="Parallel Flow Setup" />
 
+<img src="https://github.com/Cornell-MAE-UG/fa25-portfolio-cac542-bit/blob/3444d71fca3a5ec260c3fd2f049f39c19b910f3f/assets/images/regular-flow.jpeg" alt="Parallel Flow Setup"/>
+
 See below an image of the counter flow experimental setup:
 
 <img src="/assets/images/counter-flow.jpeg" width="300" alt="Counter Flow Setup"/>
