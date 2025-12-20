@@ -22,6 +22,7 @@ See below an image of the parallel flow experimental setup:
 
 <img src="/assets/images/regular-flow.jpeg" width="300" alt="Parallel Flow Setup"/>
 
+<img src="{{ /assets/images/regular-flow.jpeg | relative_url }}" alt="Parallel Flow Setup" />
 
 See below an image of the counter flow experimental setup:
 
