@@ -20,12 +20,12 @@ The experimental setup was then reset, with water in the output tubs dumped out 
 
 See below an image of the parallel flow experimental setup:
 
-<img src="/assets/images/regular-flow.jpeg" width="300" alt="Alt Text"/>
+<img src="/assets/images/regular-flow.jpeg" width="300" alt="Parallel Flow Setup"/>
 
 
 See below an image of the counter flow experimental setup:
 
-<img src="/assets/images/counter-flow.jpeg" width="300" alt="Alt Text"/>
+<img src="/assets/images/counter-flow.jpeg" width="300" alt="Counter Flow Setup"/>
 
 
 ---
