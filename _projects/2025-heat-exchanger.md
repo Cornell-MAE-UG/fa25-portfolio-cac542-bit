@@ -20,11 +20,13 @@ The experimental setup was then reset, with water in the output tubs dumped out 
 
 See below an image of the parallel flow experimental setup:
 
-![2025-heat-exchanger]({{ "/assets/images/regular-flow.jpeg" | relative_url}})
+<img src="/assets/images/regular-flow.jpeg" width="300" alt="Alt Text"/>
+
 
 See below an image of the counter flow experimental setup:
 
-![2025-heat-exchanger]({{ "/assets/images/counter-flow.jpeg" | relative_url}})
+<img src="/assets/images/counter-flow.jpeg" width="300" alt="Alt Text"/>
+
 
 ---
 
