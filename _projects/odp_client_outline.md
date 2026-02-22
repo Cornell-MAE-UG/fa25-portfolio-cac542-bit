@@ -46,8 +46,8 @@ image:
 
 #### References
 
--https://nygpadmin.cce.cornell.edu/pdf/impact_ny/pdf92_pdf.pdf (LERGP Annual Impact 2025)
--https://youtu.be/LCnp9H1SIX8?si=DDxwivgtdUjEOsPg (Similar Design)
+- https://nygpadmin.cce.cornell.edu/pdf/impact_ny/pdf92_pdf.pdf (LERGP Annual Impact 2025)
+- https://youtu.be/LCnp9H1SIX8?si=DDxwivgtdUjEOsPg (Similar Design)
 
 ---
 
