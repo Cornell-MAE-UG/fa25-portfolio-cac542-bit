@@ -59,7 +59,7 @@ image:
 
 
 <details>
-   <summary>ODP Functional Prototype
+   <summary>ODP Functional Prototype</summary>
       
    <iframe src="{{ '/assets/ODP 5_ Functional Prototype LS1&2.pdf' | relative_url }}" width="100%" height="600px"></iframe>
 
