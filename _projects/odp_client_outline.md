@@ -60,6 +60,9 @@ image:
 
 <details>
    <summary>ODP Functional Prototype
-
+      
+   <object data="../assets/ODP 5_ Functional Prototype LS1&2.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="../assets/ODP 5_ Functional Prototype LS1&2.pdf">Download instead</a>.</p>
+</object>
 
 </details>
