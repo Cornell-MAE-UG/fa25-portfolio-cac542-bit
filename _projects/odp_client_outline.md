@@ -1,10 +1,15 @@
 ---
 layout: project
-title: ODP Client Outline / Pitch
+title: Open Design Project: 
 description: analysis of a heat exchanger for ENGRD 2210
 image: 
 ---
-#### Spotted Lanternfly Eradication via Mechanical Rotating Trap
+
+
+<details>
+   <summary>ODP Client Outline / Pitch</summary>
+
+   #### Spotted Lanternfly Eradication via Mechanical Rotating Trap
 **Team:** Cornellian Capybaras
 
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape
@@ -50,5 +55,11 @@ image:
 - https://youtu.be/LCnp9H1SIX8?si=DDxwivgtdUjEOsPg (Similar Design)
 
 ---
+</details>
 
 
+<details>
+   <summary>ODP Functional Prototype
+
+
+</details>
