@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Open Design Project: 
+title: Open Design Project
 description: analysis of a heat exchanger for ENGRD 2210
 image: 
 ---
