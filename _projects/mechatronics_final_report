@@ -5,6 +5,9 @@ description: analysis of a heat exchanger for ENGRD 2210
 image: 
 ---
 
+As part of my coursework for MAE 3780: Mechatronics, me and my team spent the last few weeks of the semester building and testing a robot to compete in the robotics competition known as Cube Craze. My main area of contribution for this project was in the mechanical design since that is my strong suit. Although we didn't win the competition, it was a great experience and I learned so much about robotics design.
+
+
 
 <iframe src="{{ '/assets/MAE 3780 Final Report.pdf' | relative_url }}" width="100%" height="600px"></iframe>
 
